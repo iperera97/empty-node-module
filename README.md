@@ -4,9 +4,9 @@
 ### The following values are considered to be empty:
 
 * "" (an empty string)
-* 0 (0 as an integer)
-* 0.0 (0 as a float)
-* "0" (0 as a string)
+* 0 
+* 0.0 
+* "0" 
 * NULL
 * FALSE
 * an empty object and empty array
