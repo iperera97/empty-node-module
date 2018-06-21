@@ -9,7 +9,7 @@
 * "0" (0 as a string)
 * NULL
 * FALSE
-* array [] (an empty array)
-* obj {}
+* [] (an empty array)
+* { } (an empty object)
 
 ## if empty return true and non empty return false
